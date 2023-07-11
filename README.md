@@ -3,10 +3,10 @@
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
-git clone https://github.com/especializati/curso-de-laravel-10.git laravel-10
+git clone https://github.com/sandoelio/Laravel_10x.git
 ```
 ```sh
-cd laravel-10/
+cd Laravel_10x/
 ```
 
 
